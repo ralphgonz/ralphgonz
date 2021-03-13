@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/swamp-fog-banner2.jpg" width="100%" alt="lewes swamp">
+</p>
+
 ### Ralph Gonzalez
 
 I'm a software engineer in Delaware, USA, with interests in scientific computing, visualization, music and audio engineering.
