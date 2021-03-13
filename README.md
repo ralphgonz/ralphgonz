@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ralphgonz/images/swamp-fog-banner2.jpg" width="100%" alt="lewes swamp">
+  <img src="images/swamp-fog-banner2.jpg" width="100%" alt="lewes swamp">
 </p>
 
 ### Ralph Gonzalez
